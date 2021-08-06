@@ -1,2 +1,1 @@
-# saycheese
-Hack a others phone camera
+Https://github.com/thelinuxchoice/saycheese
